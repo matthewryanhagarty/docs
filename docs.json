@@ -14,7 +14,8 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Getting Started",
+            "icon": "arrow-pointer",
             "pages": [
               "development",
               "test"
